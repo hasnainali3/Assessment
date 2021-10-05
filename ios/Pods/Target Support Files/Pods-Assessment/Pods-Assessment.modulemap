@@ -1,6 +1,0 @@
-module Pods_Assessment {
-  umbrella header "Pods-Assessment-umbrella.h"
-
-  export *
-  module * { export * }
-}
